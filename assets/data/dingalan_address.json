@@ -1,0 +1,24 @@
+{
+  "municipalities": [
+    {
+      "name": "Other",
+      "barangays": []
+    },
+    {
+      "name": "Dingalan",
+      "barangays": [
+        { "name": "Aplaya", "streets": ["Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6"] },
+        { "name": "Butas na Bato", "streets": ["Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6"] },
+        { "name": "Cabog-Matawe", "streets": ["Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6"] },
+        { "name": "Caragsacan", "streets": ["Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6"] },
+        { "name": "Davildavilan", "streets": ["Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6"] },
+        { "name": "Dikapanikian", "streets": [] },
+        { "name": "Ibona", "streets": ["sitio abungan","sitio aves","sitio old setic","Purok 1","Purok 2","Purok 3","Purok 4","Purok 5","Purok 6","Purok 7"] },
+        { "name": "Paltic", "streets": ["project","mulawin","kamagong","ipil-ipil","avis 1","avis 2","yakal 1","yakal 2","almasiga"] },
+        { "name": "Poblacion", "streets": ["Main St", "Rizal St", "San Miguel St"] },
+        { "name": "Tanawan", "streets": ["Purok 1","Purok 2","Purok 3"] },
+        { "name": "Umiray", "streets": ["Bacong","Bakahan","Camandag","Ferry","Iyapit","Limbok","Malacawayan","Malamig","Market Site","Pinamaypayan","School Site","Singawan","Sumalag","Tabi"] }
+      ]
+    }
+  ]
+}
